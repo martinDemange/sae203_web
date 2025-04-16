@@ -1,3 +1,5 @@
 body {
     background-image: url("index_sae203.png");
+    background-size: cover;
+    background-repeat: no-repeat;
 }
